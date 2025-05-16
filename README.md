@@ -7,6 +7,7 @@
 
 ## Linguagens que uso
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenrique-neclon&langs_count=5)
+![Gráfico de Contribuições](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -24,15 +25,10 @@
 ---
 
 ## Meus Projetos
-### Melhor Projeto: Nome do Melhor Projeto
-- **Descrição**: Breve descrição do projeto e suas funcionalidades.
-- **Tecnologias**: Lista das tecnologias utilizadas.
-- **Link**: [Visualizar Projeto](https://github.com/usuario/melhor-projeto)
-
-### Outro Projeto
-- **Descrição**: Breve descrição do projeto e suas funcionalidades.
-- **Tecnologias**: Lista das tecnologias utilizadas.
-- **Link**: [Visualizar Projeto](https://github.com/usuario/outro-projeto)
+### Melhor Projeto: Sistema de cadastro de academia
+- **Descrição**: Cadastrar aluno, Financeiro, Pagamentos.
+- **Tecnologias**: Flask(Python), hmtl, css, Javascript, PostgreSql.
+- **Link**: [Visualizar Projeto](https://github.com/KauaHenrique-neclon/cadastro-academia)
 
 ---
 
@@ -45,21 +41,14 @@
 - **Desenvolvimento Web**: HTML, CSS, JavaScript, Flask, Django
 - **Banco de Dados**: PostgreSQL, MySQL
 - **Programação**: Python, C++
-- **Ferramentas**: Git, Docker, Visual Studio Code
+- **Ferramentas**: Git, Visual Studio Code
 
 ---
 
 ## Interesses
-- Aprender sobre Inteligência Artificial e Machine Learning
 - Contribuir em projetos de código aberto
 - Desenvolvimento de aplicativos móveis
 
----
-
-## Contato
-- 📫 Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- 🌐 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seuperfil/)
-- 💬 Pergunte-me sobre qualquer coisa relacionada a tecnologia!
 
 ---
 
