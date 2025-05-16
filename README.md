@@ -59,7 +59,6 @@
 - ⚡ Curiosidade: Gosto de resolver quebra-cabeças e estou sempre em busca de novos desafios!
 
 <!--
-**KauaHenrique-neclon/KauaHenrique-neclon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Aqui estão algumas ideias para começar:
 
