@@ -1,12 +1,19 @@
-## Olá, meu nome é Kauã 👋
+# Kauã Henrique 👋
 
-- Estudante de Ciências da Computação
-- Apaixonado por programação
 
 ---
 
-## Linguagens que uso
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenrique-neclon&langs_count=5)
+**🎓 Estudante de Ciências da Computação**  
+**❤️ Apaixonado por Programação**
+## Status
+
+### Linguagens Mais Usadas e Commits
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenrique-neclon&langs_count=5&theme=material-palenight) | ![Kaua GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaHenrique-neclon&show_icons=true&theme=material-palenight) |
+|---|---|
+
+
+### Gráfico de Contribuições
 ![Gráfico de Contribuições](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
@@ -32,10 +39,6 @@
 
 ---
 
-## Quantidade de Commits
-![Commits](https://img.shields.io/github/commit-activity/y/KauaHenrique-neclon.svg)
-
----
 
 ## Habilidades
 - **Desenvolvimento Web**: HTML, CSS, JavaScript, Flask, Django
