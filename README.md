@@ -42,7 +42,7 @@
 
 ## Habilidades
 - **Desenvolvimento Web**: HTML, CSS, JavaScript, Flask, Django
-- **Banco de Dados**: PostgreSQL, MySQL
+- **Banco de Dados**: PostgreSQL, MySQL, SQL
 - **Programação**: Python, C++
 - **Ferramentas**: Git, Visual Studio Code
 
@@ -50,7 +50,7 @@
 
 ## Interesses
 - Contribuir em projetos de código aberto
-- Desenvolvimento de aplicativos móveis
+- Desenvolvimento de aplicativos desktop
 
 
 ---
