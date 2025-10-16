@@ -74,7 +74,7 @@ Confira meu projeto de maior relevância e explore mais no meu perfil.
 
 ---
 
-## 🎯 Atividade Recente (A Cobra do Kauã 🐍)
+## 🎯 Atividade Recente
 
 Este gráfico mostra a minha atividade de contribuição no GitHub ao longo do tempo.
 
