@@ -1,4 +1,4 @@
-# Kauã Henrique 👋 | Desenvolvedor Full-Stack & Entusiasta de Back-end
+# Kauã Henrique 👋 | Desenvolvedor Back-end
 
 ---
 
