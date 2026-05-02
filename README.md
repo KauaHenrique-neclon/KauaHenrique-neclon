@@ -19,45 +19,47 @@ Um resumo das linguagens, frameworks e ferramentas que utilizo nos meus projetos
 ### 🌐 Linguagens & Core
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 </p>
+
 
 ### ⚙️ Frameworks & Bibliotecas (Back-end)
 
 <p align="left">
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-    <img alt="Poco" src="https://img.shields.io/badge/POCO-Framework-darkgreen?style=for-the-badge&logoColor=white"/>
-    <img alt="Crow" src="https://img.shields.io/badge/Crow-C++-red?style=for-the-badge&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/POCO-C++-darkgreen?style=flat&logo=cplusplus&logoColor=white"/>
 </p>
+
 
 ### ⚛️ Frameworks & Bibliotecas (Front-end)
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/original/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
 </p>
 
 ### 🗄️ Bancos de Dados
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/SQL-grey?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
 ### ⚙️ Ferramentas & Outros
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/>
 </p>
 
 ---
@@ -66,11 +68,11 @@ Um resumo das linguagens, frameworks e ferramentas que utilizo nos meus projetos
 
 Confira meu projeto de maior relevância e explore mais no meu perfil.
 
-### Sistema de Gestão para Academia
+### Um ERP
 
-- **Descrição**: Sistema completo para gerenciamento de academias, abrangendo **cadastro de alunos**, controle **financeiro** e acompanhamento de **pagamentos**. Ideal para otimizar a administração e a rotina do negócio.
-- **Tecnologias-chave**: **Flask** (Python), **PostgreSQL**, HTML, CSS e JavaScript.
-- **Link**: [Visualizar Projeto no GitHub](https://github.com/KauaHenrique-neclon/cadastro-academia)
+- **Descrição**: Sistema completo para gerenciamento de estoque, pessoas, produtos, pedidos e entregas
+- **Tecnologias-chave**: **Poco** [C++], NextJs, PostgreSql
+- **Link**: [Visualizar Projeto no GitHub](https://github.com/KauaHenrique-neclon/backend-cpp)
 
 ---
 
