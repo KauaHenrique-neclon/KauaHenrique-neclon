@@ -6,9 +6,9 @@
 
 ## 💻 Status & Estatísticas do GitHub
 
-| Linguagens Mais Usadas | Gráfico de Contribuições (Geral) |
+| Linguagens Mais Usadas | Estatísticas |
 | :---: | :---: |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenrique-neclon&langs_count=6&theme=material-palenight&layout=compact&hide_title=true) | ![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=KauaHenrique-neclon&show_icons=true&theme=material-palenight&hide_title=true&line_height=25) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHenrique-neclon&layout=compact&theme=material-palenight&langs_count=8&count_private=true&hide_border=true) | ![](https://github-readme-stats.vercel.app/api?username=KauaHenrique-neclon&show_icons=true&theme=material-palenight&count_private=true&hide_border=true) |
 
 ---
 
